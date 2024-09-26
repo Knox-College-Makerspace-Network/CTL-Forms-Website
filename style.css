@@ -1,9 +1,11 @@
 body {
 	background-color: white;
+	margin: 0;
+	padding: 0;
 }
 
 button {
-	width: 200px;
+	width: 250px;
 	height: 100px;
 }
 
