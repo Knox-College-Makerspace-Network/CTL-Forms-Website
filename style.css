@@ -9,6 +9,23 @@ button {
 	height: 100px;
 	margin: 0;
 	padding: 0;
+	display: inline-block;
+	float: left;
+}
+
+img {
+	width: 200px;
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 0px;
+	display: block;
+	display: block;
+}
+
+div {
+	margin: 0px;
+	padding: 0px;
 }
 
 }
